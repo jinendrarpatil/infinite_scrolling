@@ -1,0 +1,17 @@
+/* .loginPage{
+background-color: cadetblue;
+} */
+
+.form{
+    display: flex;
+    background-color: cadetblue;
+    margin-top: 5rem;
+    padding: 2rem;
+
+}
+.form h2{
+    margin-bottom: 2.5rem;
+    font-family: 'Courgette', cursive;
+}
+
+
